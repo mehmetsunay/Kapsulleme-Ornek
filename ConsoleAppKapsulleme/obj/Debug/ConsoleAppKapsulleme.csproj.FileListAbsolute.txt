@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CSHARP2\ConsoleAppKapsulleme\bin\Debug\ConsoleAppKapsulleme.exe.config
+C:\Users\User\source\repos\CSHARP2\ConsoleAppKapsulleme\bin\Debug\ConsoleAppKapsulleme.exe
+C:\Users\User\source\repos\CSHARP2\ConsoleAppKapsulleme\bin\Debug\ConsoleAppKapsulleme.pdb
+C:\Users\User\source\repos\CSHARP2\ConsoleAppKapsulleme\obj\Debug\ConsoleAppKapsulleme.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSHARP2\ConsoleAppKapsulleme\obj\Debug\ConsoleAppKapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSHARP2\ConsoleAppKapsulleme\obj\Debug\ConsoleAppKapsulleme.exe
+C:\Users\User\source\repos\CSHARP2\ConsoleAppKapsulleme\obj\Debug\ConsoleAppKapsulleme.pdb
